@@ -7,3 +7,10 @@
     This refactoring will save alot of time for those who will later edit the code and also provide more accessibility to the website, providing incentive for all users to return to the site at a later date.
 
     through refactoring this code i learned that it is necessary to have a website that can be accessed by all personnel and must take the time in development to add these features in to maximize traffic to the website.
+
+    https://billthebaker.github.io/Horiseon-Marketing-Site/ final product
+
+    https://github.com/Billthebaker/Horiseon-Marketing-Site github repo
+
+    
+
