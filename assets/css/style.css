@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header section */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -39,17 +39,20 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+    
 }
-
+/*navbar link font color */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
 
+/* body section font size */
+p {
+    font-size: 15px;
+}
+/* main display image */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +61,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* float section */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -139,7 +142,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* image sizing section */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -166,7 +169,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer section */
 .footer {
     padding: 30px;
     clear: both;
